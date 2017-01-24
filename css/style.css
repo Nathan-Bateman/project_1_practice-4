@@ -23,7 +23,7 @@ display:flex;
     justify-content: space-around;
     list-style-type: none; 
 }
-
+/* There is no formatting on the menue items - should be side by side with color */
 #middle-wrapper {
     display:flex;
     background-color: darkgreen;
